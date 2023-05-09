@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 🗣️ I’m looking to collaborate on Indie Games and Java Applications.
 
 * ABOUT ME
--- 💻 Cyber Security Major @ PSU
+- 💻 Cyber Security Major @ PSU
 - ⚡ I know Java, SQL, HTMl & CSS, System Admin., and Command-Line.
 - 🌐 National Cyber League (NCL) Competititor 
-Spring '23: 👤 Individual Game: 💎 82nd Percentile 👥 Team Game: 🏆 73 Percentile
+-  Spring '23: 👤 Individual Game: 💎 82nd Percentile 👥 Team Game: 🏆 73 Percentile
