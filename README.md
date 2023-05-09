@@ -1,4 +1,4 @@
-###👋 Hi I'm @HeckinMatt
+### 👋 Hi I'm @HeckinMatt
 
 <!--
 **HeckinMatt/HeckinMatt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -23,4 +23,5 @@ Here are some ideas to get you started:
 * About Me
 - 💻 Cyber Security Major @ PSU
 - ⚡ I know Java, SQL, HTMl & CSS, System Admin., and Command-Line.
-- 🌐 National Cyber League (NCL) Competititor 👤 Individual Game: 💎 82nd Percentile 👥 Team Game: 🏆 73 Percentile
+- 🌐 National Cyber League (NCL) Competititor 
+👤 Individual Game: 💎 82nd Percentile 👥 Team Game: 🏆 73 Percentile
