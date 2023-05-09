@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 - 💻 Cyber Security Major @ PSU
 - ⚡ I know Java, SQL, HTMl & CSS, System Admin., and Command-Line.
 - 🌐 National Cyber League (NCL) Competititor 
--  Spring '23: 👤 Individual Game: 💎 82nd Percentile 👥 Team Game: 🏆 73 Percentile
+
