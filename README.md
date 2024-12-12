@@ -34,9 +34,9 @@ I'm HeckinMatt, a Cybersecurity student and aspiring Cybersecurity Specialist an
 
 <img width="25%" align='right' src="hack.gif">
 
-👉 Still Learning Pen Testing Bug Hunting
+👉 Still Learning Pen Testing & Bug Hunting
 
-👉 Writing Some Useful Tools For Myself & Communities
+👉 Writing Tools to Enhance My Cybersecurity Skills
 
 👉 Building & Contributing To Open Source Projects
 
