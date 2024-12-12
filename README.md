@@ -1,5 +1,3 @@
-### 👋 Hi I'm @HeckinMatt
-
 <!--
 **HeckinMatt/HeckinMatt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,7 +11,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 * INTRO
 - 💭 I'm interested in Cyber Security and Software Development.
 - 🔭 I’m currently tinkering around in different Linux Projects and Java Applications.
@@ -24,4 +21,10 @@ Here are some ideas to get you started:
 - 💻 Cyber Security Major @ PSU
 - ⚡ I know Java, SQL, R, Metasploit, Kali Linux, Metasploit, Splunk, and System Admin.
 - 🌐 National Cyber League (NCL) Competititor 
+-->
+
+<h2 align="left">
+  Hi there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
+</h2>
 
