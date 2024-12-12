@@ -30,6 +30,20 @@ Here are some ideas to get you started:
 
 I'm HeckinMatt, a Cybersecurity student and aspiring Cybersecurity Specialist and Penetration Tester. With a strong passion for technology and expertise in programming, malware analysis, vulnerability assessment, bug hunting, and penetration testing, I aim to safeguard digital assets and develop innovative security solutions.
 
+<h2 id="present_status"> Present Status </h3>
+
+<img width="25%" align='right' src="https://giphy.com/embed/077i6AULCXc0FKTj9s">
+
+👉 Still Learning Pen Testing Bug Hunting
+
+👉 Writing Some Useful Tools For Myself & Communities
+
+👉 Building & Contributing To Open Source Projects
+
+👉 Currently Learning React & Python 
+
+`Updating:`  Journey to Cybersecurity Specialist.
+
 <h2 id="knowledge_skills" align=''> Knowledge & Skills </h2>
 
 <br>
